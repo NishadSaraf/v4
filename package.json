@@ -1,11 +1,11 @@
 {
-  "name": "v4",
+  "name": "nishadsaraf",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Nishad Saraf <nishadsaraf@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/NishadSaraf/nishadsaraf.github.io"
   },
   "keywords": [
     "gatsby"
