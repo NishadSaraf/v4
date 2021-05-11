@@ -53,14 +53,19 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Nishad Saraf.</h2>;
+  const three = <h3 className="big-heading">I build low-level software stack.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      I am a <a href="https://www.youtube.com/watch?v=r44RKWyfcFw">Silicon Valley-based</a> Software
+      Engineer with a solid foundation in embedded system design and computer architecture.
+      Currently, I am working as an Embedded Software Engineer at{' '}
+      <a href="https://www.xilinx.com/">Xilinx</a> focused on building multi-platform{' '}
+      <a href="https://www.xilinx.com/support/documentation/white_papers/wp506-ai-engine.pdf">
+        {' '}
+        AI Engine
+      </a>{' '}
+      driver.
     </p>
   );
   const five = (
