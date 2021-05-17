@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nishadsaraf.com/sitemap.xml
+Host: https://nishadsaraf.com
