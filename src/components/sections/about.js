@@ -162,8 +162,8 @@ const About = () => {
               Xilinx, I am working on building libraries and drivers for the industry’s first{' '}
               <a href="https://www.xilinx.com/products/silicon-devices/acap/versal.html">
                 ACAP (Adaptive Compute Acceleration Platform).
-              </a>
-              Previously, I have worked on developing validation frameworks for automotive use cases
+              </a>{' '}
+              Previously, I have worked on developing validation frameworks for automotive use-cases
               at Tesla.
             </p>
             <p>Here are a few technologies I've been working with recently:</p>
