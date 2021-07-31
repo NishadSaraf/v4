@@ -36,7 +36,7 @@ const StyledTableContainer = styled.div`
     th,
     td {
       padding: 10px;
-      text-align: left;
+      text-align: center;
 
       &:first-child {
         padding-left: 20px;
@@ -73,8 +73,9 @@ const StyledTableContainer = styled.div`
     }
 
     td {
-      &.year {
+      &.component {
         padding-right: 20px;
+        text-align: center;
 
         @media (max-width: 768px) {
           padding-right: 10px;
@@ -89,30 +90,15 @@ const StyledTableContainer = styled.div`
         font-size: var(--fz-xl);
         font-weight: 600;
         line-height: 1.25;
-      }
-
-      &.company {
-        font-size: var(--fz-lg);
-        white-space: nowrap;
-      }
-
-      &.tech {
-        font-size: var(--fz-xxs);
-        font-family: var(--font-mono);
-        line-height: 1.5;
-        .separator {
-          margin: 0 5px;
-        }
-        span {
-          display: inline-block;
-        }
+        text-align: left;
       }
 
       &.links {
-        min-width: 100px;
+        min-width: 50px;
 
         div {
           display: flex;
+          padding-right: 10px;
           align-items: center;
 
           a {
@@ -153,54 +139,26 @@ const ArchivePage = ({ location, data }) => {
       <main>
         <header ref={revealTitle}>
           <h1 className="big-heading">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <p className="subtitle">Here's a list of my open source contributions</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
           <table>
             <thead>
               <tr>
-                <th>Year</th>
-                <th>Title</th>
-                <th className="hide-on-mobile">Made at</th>
-                <th className="hide-on-mobile">Built with</th>
+                <th>Software component</th>
+                <th>Commit title</th>
                 <th>Link</th>
               </tr>
             </thead>
             <tbody>
               {projects.length > 0 &&
                 projects.map(({ node }, i) => {
-                  const {
-                    date,
-                    github,
-                    external,
-                    ios,
-                    android,
-                    title,
-                    tech,
-                    company,
-                  } = node.frontmatter;
+                  const { github, external, ios, android, title, component } = node.frontmatter;
                   return (
                     <tr key={i} ref={el => (revealProjects.current[i] = el)}>
-                      <td className="overline year">{`${new Date(date).getFullYear()}`}</td>
-
+                      <td className="component">{component}</td>
                       <td className="title">{title}</td>
-
-                      <td className="company hide-on-mobile">
-                        {company ? <span>{company}</span> : <span>—</span>}
-                      </td>
-
-                      <td className="tech hide-on-mobile">
-                        {tech?.length > 0 &&
-                          tech.map((item, i) => (
-                            <span key={i}>
-                              {item}
-                              {''}
-                              {i !== tech.length - 1 && <span className="separator">&middot;</span>}
-                            </span>
-                          ))}
-                      </td>
-
                       <td className="links">
                         <div>
                           {external && (
@@ -245,20 +203,19 @@ export default ArchivePage;
 export const pageQuery = graphql`
   {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/content/projects/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fileAbsolutePath: { regex: "/commits/" } }
+      sort: { fields: [frontmatter___component, frontmatter___date], order: [ASC, DESC] }
     ) {
       edges {
         node {
           frontmatter {
             date
             title
-            tech
+            component
             github
             external
             ios
             android
-            company
           }
           html
         }
