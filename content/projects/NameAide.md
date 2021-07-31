@@ -1,10 +1,10 @@
 ---
 date: '2015-01-15'
 title: 'NameAide'
-github: ''
+github: 'https://github.com/NishadSaraf/NameAide'
 external: ''
 tech:
-  - Andriod Studio
+  - Android Studio
 company: ''
 showInProjects: true
 ---
