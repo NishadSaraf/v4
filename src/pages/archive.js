@@ -11,57 +11,46 @@ import { usePrefersReducedMotion } from '@hooks';
 
 const StyledTableContainer = styled.div`
   margin: 100px -20px;
-
   @media (max-width: 768px) {
     margin: 50px -10px;
   }
-
   table {
     width: 100%;
     border-collapse: collapse;
-
     .hide-on-mobile {
       @media (max-width: 768px) {
         display: none;
       }
     }
-
     tbody tr {
       &:hover,
       &:focus {
         background-color: var(--light-navy);
       }
     }
-
     th,
     td {
       padding: 10px;
       text-align: center;
-
       &:first-child {
         padding-left: 20px;
-
         @media (max-width: 768px) {
           padding-left: 10px;
         }
       }
       &:last-child {
         padding-right: 20px;
-
         @media (max-width: 768px) {
           padding-right: 10px;
         }
       }
-
       svg {
         width: 20px;
         height: 20px;
       }
     }
-
     tr {
       cursor: default;
-
       td:first-child {
         border-top-left-radius: var(--border-radius);
         border-bottom-left-radius: var(--border-radius);
@@ -71,18 +60,14 @@ const StyledTableContainer = styled.div`
         border-bottom-right-radius: var(--border-radius);
       }
     }
-
     td {
-      &.component {
+      &.year {
         padding-right: 20px;
-        text-align: center;
-
         @media (max-width: 768px) {
           padding-right: 10px;
           font-size: var(--fz-sm);
         }
       }
-
       &.title {
         padding-top: 15px;
         padding-right: 20px;
@@ -92,21 +77,25 @@ const StyledTableContainer = styled.div`
         line-height: 1.25;
         text-align: left;
       }
-
+      &.company {
+        font-size: var(--fz-lg);
+        white-space: nowrap;
+      }
+      &.tech {
+        font-size: var(--fz-xxs);
+        font-family: var(--font-mono);
+        line-height: 1.5;
+        .separator {
+          margin: 0 5px;
+        }
+        span {
+          display: inline-block;
+        }
+      }
       &.links {
-        /*min-width: 50px;*/
-
+        min-width: 10px;
         div {
           align-items: center;
-
-          a {
-            ${({ theme }) => theme.mixins.flexCenter};
-            flex-shrink: 0;
-          }
-
-          a + a {
-            margin-left: 10px;
-          }
         }
       }
     }
@@ -152,31 +141,16 @@ const ArchivePage = ({ location, data }) => {
             <tbody>
               {projects.length > 0 &&
                 projects.map(({ node }, i) => {
-                  const { github, external, ios, android, title, component } = node.frontmatter;
+                  const { github, title, component } = node.frontmatter;
                   return (
                     <tr key={i} ref={el => (revealProjects.current[i] = el)}>
                       <td className="component">{component}</td>
                       <td className="title">{title}</td>
                       <td className="links">
                         <div>
-                          {external && (
-                            <a href={external} aria-label="External Link">
-                              <Icon name="External" />
-                            </a>
-                          )}
                           {github && (
                             <a href={github} aria-label="GitHub Link">
                               <Icon name="GitHub" />
-                            </a>
-                          )}
-                          {ios && (
-                            <a href={ios} aria-label="Apple App Store Link">
-                              <Icon name="AppStore" />
-                            </a>
-                          )}
-                          {android && (
-                            <a href={android} aria-label="Google Play Store Link">
-                              <Icon name="PlayStore" />
                             </a>
                           )}
                         </div>
