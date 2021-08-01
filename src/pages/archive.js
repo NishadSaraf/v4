@@ -88,17 +88,15 @@ const StyledTableContainer = styled.div`
         padding-right: 20px;
         color: var(--lightest-slate);
         font-size: var(--fz-xl);
-        font-weight: 600;
+        font-weight: 500;
         line-height: 1.25;
         text-align: left;
       }
 
       &.links {
-        min-width: 50px;
+        /*min-width: 50px;*/
 
         div {
-          display: flex;
-          padding-right: 10px;
           align-items: center;
 
           a {
