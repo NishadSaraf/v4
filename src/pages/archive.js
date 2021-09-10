@@ -187,8 +187,6 @@ export const pageQuery = graphql`
             component
             github
             external
-            ios
-            android
           }
           html
         }
