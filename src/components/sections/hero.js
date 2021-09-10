@@ -63,26 +63,22 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build low-level software stack.</h3>;
   const four = (
     <>
-    <p>
-      I am a <a href="https://www.youtube.com/watch?v=r44RKWyfcFw">Silicon Valley-based</a> Software
-      Engineer with a solid foundation in embedded system design. Currently, I am working as an
-      Embedded Software Engineer at <a href="https://www.xilinx.com/">Xilinx</a> focused on building
-      multi-platform{' '}
-      <a href="https://www.xilinx.com/support/documentation/white_papers/wp506-ai-engine.pdf">
-        {' '}
-        AI Engine
-      </a>{' '}
-      driver.
-    </p>
+      <p>
+        I am a <a href="https://www.youtube.com/watch?v=r44RKWyfcFw">Silicon Valley-based</a>{' '}
+        Software Engineer with a solid foundation in embedded system design. Currently, I am working
+        as an Embedded Software Engineer at <a href="https://www.xilinx.com/">Xilinx</a> focused on
+        building multi-platform{' '}
+        <a href="https://www.xilinx.com/support/documentation/white_papers/wp506-ai-engine.pdf">
+          {' '}
+          AI Engine
+        </a>{' '}
+        driver.
+      </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/archive"
-      target="_blank"
-      rel="noreferrer">
-      Check out my open-source contributions!
+    <a className="email-link" href="/archive" target="_blank" rel="noreferrer">
+      Checkout my open-source contributions!
     </a>
   );
 
