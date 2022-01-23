@@ -1,6 +1,6 @@
 ---
 date: '2017-01-15'
-title: 'Fibonacci Sequnence Generator IP'
+title: 'Fibonacci Sequence Generator IP'
 github: ''
 external: ''
 tech:
