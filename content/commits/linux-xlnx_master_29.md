@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Return NULL if no errors were found'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/8142ea914c9314e7820d9b33aff6ff40d314fcf7'
+date: '2020-09-09'
+title: 'dt-bindings: soc: xilinx: ai-engine: Add interrupt and power-domain properties for AIE device'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/9ec26760511f856a716e7691f1ba06ec9bb4739a'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

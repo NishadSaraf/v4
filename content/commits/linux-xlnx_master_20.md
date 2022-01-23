@@ -1,7 +1,7 @@
 ---
 date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Handle error interrupts for partitions not yet requested'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/2cfa86501cdde7fd66527873767661078c6e5636'
+title: 'misc: xilinx-ai-engine: Fix for-loop control limits'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/859af9858617e723c9783dadeff83dc02e07260b'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

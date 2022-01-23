@@ -1,7 +1,7 @@
 ---
-date: '2021-06-01'
-title: 'misc: xilinx-ai-engine: Fix slab-out-of-bounds in aie_part_sysfs_init'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/1dea93706a73737c864a612f3a44fdc51f5fc502'
+date: '2022-01-09'
+title: 'misc: xilinx-ai-engine: Add DMA FIFO counter info to Sysfs'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/bcffe9773b49fc82c87a30f9f78921d5b4402c5a'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

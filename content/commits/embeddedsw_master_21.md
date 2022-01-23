@@ -1,7 +1,7 @@
 ---
-date: '2019-08-12'
-title: 'aiengine: data: xparameter.h to include correct path to xparameters_aie.h'
-github: 'https://github.com/Xilinx/embeddedsw/commit/377b52a077e401458ed4bcb0b556e9c7306bbb3a'
+date: '2021-06-15'
+title: 'aienginev2: src: Remove include directory during cleanup'
+github: 'https://github.com/Xilinx/embeddedsw/commit/329def4ecc436c35a8a5bfac6f1f152afbb227eb'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

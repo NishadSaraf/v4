@@ -1,7 +1,7 @@
 ---
 date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add support for servicing error interrupts'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/2d749f7e768f77cd6c73dd7bf9831eb62391b420'
+title: 'misc: xilinx-ai-engine: Add APIs for kernel modules to handle error interrupts'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/46eb5fba9463eb4aec89433bf9443038e49e9e7b'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

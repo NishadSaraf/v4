@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Return NULL if no errors were found'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/60ea1c8dafda6080dba0c84797a702fc3d0f5c60'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Create AI Engine tile devices'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/e63b620577f3ed6d4f28a92a63eadb53a9a94a45'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

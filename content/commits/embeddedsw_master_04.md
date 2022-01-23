@@ -1,7 +1,7 @@
 ---
-date: '2020-09-25'
-title: 'aienginev2: src: interrupt: Enable NPI error interrupt'
-github: 'https://github.com/Xilinx/embeddedsw/commit/45f9287e7ee2ff352be47a0bc29bd87f6b69129f'
+date: '2021-07-27'
+title: 'aienginev2: src: interrupt: Add support of error routing for AIE ML'
+github: 'https://github.com/Xilinx/embeddedsw/commit/0e60aeddf1ad2939f4093b283a048d289b1fe708'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
-date: '2019-09-12'
-title: 'lib: bsp: arm: Map AIE region for ARM CortexR5'
-github: 'https://github.com/Xilinx/embeddedsw/commit/8261b2872a6e1ac614908492ef7aebd8f3156ba4'
+date: '2020-07-07'
+title: 'aienginev2: src: global: Populate event module properties for AIE-ML'
+github: 'https://github.com/Xilinx/embeddedsw/commit/e46ca9ba12ff20acb76f0e3e8221ed183012890a'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
-date: '2020-09-15'
-title: 'aienginev2: src: global: Add check to validate XAie_MemCacheProp value in XAie_MemAllocate()'
-github: 'https://github.com/Xilinx/embeddedsw/commit/4b4aa63b87ed21f7fed9d4abac422dc9f5497d89'
+date: '2020-09-18'
+title: 'aienginev2: global: Fix port master-slave offset value for aieml'
+github: 'https://github.com/Xilinx/embeddedsw/commit/da3313d192f70baabcbbac80612583db94ab839c'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

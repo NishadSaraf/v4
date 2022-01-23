@@ -1,7 +1,7 @@
 ---
-date: '2019-01-30'
-title: 'aiengine: data: aiengine.mdd: Add ai_engine as supported peripheral'
-github: 'https://github.com/Xilinx/embeddedsw/commit/5aec480ea856c630a44d65ab9e7bad88c5c813bf'
+date: '2020-09-25'
+title: 'aienginev2: src: dma: Add check to validate XAie_DmaChReset value in XAie_DmaChannelReset() API'
+github: 'https://github.com/Xilinx/embeddedsw/commit/a8334ee5519ab37926d863bdff2e7d8649431b82'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

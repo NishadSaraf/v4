@@ -1,7 +1,7 @@
 ---
-date: '2019-04-10'
-title: 'aiengine: src: Fix dataype conflict while building application for PSM'
-github: 'https://github.com/Xilinx/embeddedsw/commit/e6cd33e70de597644de5fa40f6d72ab46a21a16e'
+date: '2020-09-25'
+title: 'aienginev2: src: npi: Add NPI interrupt properties for aie'
+github: 'https://github.com/Xilinx/embeddedsw/commit/dd715220ddf2fceeb21f400957f2dc31d96af8f9'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'
