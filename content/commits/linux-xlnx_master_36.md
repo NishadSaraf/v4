@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Log error events and classify them into categories'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/fd44602e0ea419181abbc1b1df3d58eacbc54b36'
+date: '2020-10-06'
+title: 'misc: xilinx-ai-engine: Create bitmaps to manage level 2 controller'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/b71fe1fd67141e8659baae83e4d62d299afb28a5'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

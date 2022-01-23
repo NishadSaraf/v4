@@ -1,7 +1,7 @@
 ---
 date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add helper functions to service interrupt controllers and event registers'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/b9192927f547daab51de945913b909fe557277fc'
+title: 'misc: xilinx-ai-engine: Log error events and classify them into categories'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/fd44602e0ea419181abbc1b1df3d58eacbc54b36'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

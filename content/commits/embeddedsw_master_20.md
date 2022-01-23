@@ -1,7 +1,7 @@
 ---
-date: '2019-08-12'
-title: 'aiengine: src: Makefile to copy all the headers inside xaiengine directory'
-github: 'https://github.com/Xilinx/embeddedsw/commit/6ba4816ea7f1f45d740dbff4392028ae4525e8a2'
+date: '2021-06-24'
+title: 'aienginev2: src: core: Get tile type from device ops'
+github: 'https://github.com/Xilinx/embeddedsw/commit/9e4a5f7909e8023b48245fe6e41f600027de0779'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

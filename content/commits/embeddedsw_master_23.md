@@ -1,7 +1,7 @@
 ---
-date: '2019-04-25'
-title: 'aiengine: data: Fix standalone application failure in Scout'
-github: 'https://github.com/Xilinx/embeddedsw/commit/d08b993766757713b6f84b759466011b0e272941'
+date: '2020-11-16'
+title: 'aienginev2: events: Add APIs to read event status'
+github: 'https://github.com/Xilinx/embeddedsw/commit/59847f3231b236f925794ed43fe0ac8b69d926a8'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

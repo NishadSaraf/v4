@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Fix for-loop control limits'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/200f83ab1eb2c8862ba88d0ddc3d5790ee519474'
+date: '2020-09-09'
+title: 'misc: xilinx-ai-engine: Add support to request device management services'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/496029b230015d92dc4b7f24edc80ab40daaa098'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

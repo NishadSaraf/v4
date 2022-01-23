@@ -1,7 +1,7 @@
 ---
-date: '2019-04-11'
-title: 'aiengine: MISRA-C: Fix use of uninitialized pointer in XAieDma_TileBdSetLock'
-github: 'https://github.com/Xilinx/embeddedsw/commit/fada681d61a51359d628958291b2e21045a6cba2'
+date: '2020-09-25'
+title: 'aienginev2: src: interrupt: Enable NPI error interrupt'
+github: 'https://github.com/Xilinx/embeddedsw/commit/a32e3f2888b387cc4253707140caadc0585d9906'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
-date: '2020-09-25'
-title: 'aienginev2: src: npi: Add NPI interrupt properties for aie'
-github: 'https://github.com/Xilinx/embeddedsw/commit/d91f22fbebcbedc70c99ab74e2f882d6acfc2f33'
+date: '2021-06-17'
+title: 'aienginev2: src: core: Add core processor bus control APIs'
+github: 'https://github.com/Xilinx/embeddedsw/commit/f60e3fb10583fb4b454f435fbca2e9ac741e6a73'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
-date: '2021-04-12'
-title: 'misc: xilinx-ai-engine: Add sysfs event binary attribute'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/a93b6d8810f775e87afd47baa092a2d99d200c02'
+date: '2021-05-06'
+title: 'misc: xilinx-ai-engine: Clear clock state bitmap while releasing the partition'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/04db053fcf753867c764b3d7a82490e8cb2e3252'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

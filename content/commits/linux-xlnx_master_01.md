@@ -1,7 +1,7 @@
 ---
-date: '2021-05-06'
-title: 'misc: xilinx-ai-engine: Clear clock state bitmap while releasing the partition'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/04db053fcf753867c764b3d7a82490e8cb2e3252'
+date: '2021-12-14'
+title: 'misc: xilinx-ai-engine: Print tile location only if it is reporting error(s)'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/9fce3c88352d97a6eb48df1ce7293d32583c3352'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

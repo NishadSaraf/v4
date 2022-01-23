@@ -1,7 +1,7 @@
 ---
-date: '2020-09-18'
-title: 'aienginev2: global: Fix port master-slave offset value'
-github: 'https://github.com/Xilinx/embeddedsw/commit/a95a5afaa249318063c98a10f6b10f68a3607f50'
+date: '2020-11-13'
+title: 'aienginev2: events: Add APIs to read event status'
+github: 'https://github.com/Xilinx/embeddedsw/commit/c610d59cc478f3d8d233051463bb6a5890591e07'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

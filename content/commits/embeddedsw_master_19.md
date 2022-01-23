@@ -1,7 +1,7 @@
 ---
-date: '2019-08-12'
-title: 'aiengine: src: global: Add compiler flag to define AIE base address offset for RPU'
-github: 'https://github.com/Xilinx/embeddedsw/commit/3e18373c8c50be094df5ed3d5ea8c2a2b47eb717'
+date: '2020-06-24'
+title: 'aienginev2: src: global: Populate trace module properties for AIE-ML'
+github: 'https://github.com/Xilinx/embeddedsw/commit/29fc5a2f80b7734962f505dbf612b3e3a301fa3f'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'

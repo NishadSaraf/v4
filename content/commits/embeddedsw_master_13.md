@@ -1,7 +1,7 @@
 ---
-date: '2020-09-15'
-title: 'aienginev2: src: stream_switch: Add check to validate XAie_StrmSwPktHeader value in _XAie_StrmPktSwMstrPortConfig()'
-github: 'https://github.com/Xilinx/embeddedsw/commit/fdfb21b5569a2596257fac0ee418970d758546bc'
+date: '2020-08-25'
+title: 'aienginev2: src: Fix value of PortMstrSlvOff event property for AIE-ML'
+github: 'https://github.com/Xilinx/embeddedsw/commit/5e4c6001a98b4b17b1e7202bc10611faf1bcd74b'
 external: ''
 component: 'Userspace driver'
 company: 'Xilinx'
