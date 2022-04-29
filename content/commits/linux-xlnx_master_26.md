@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Log error events and classify them into categories'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/5bda1a78016319cbf2f1fee13a3877127c893ba9'
+date: '2020-10-06'
+title: 'misc: xilinx-ai-engine: Return NULL if no errors were found'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/60ea1c8dafda6080dba0c84797a702fc3d0f5c60'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'
