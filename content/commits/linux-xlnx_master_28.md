@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add helper functions to service interrupt controllers and event registers'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/5a4285ea662e5e55c31c241234e71c10d63265ec'
+date: '2020-10-06'
+title: 'misc: xilinx-ai-engine: Clear broadcast event status'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/6b002afcb008e7c1ac1c6b4e3f4499d4b9f3144a'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

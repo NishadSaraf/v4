@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add support for servicing error interrupts'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/2d749f7e768f77cd6c73dd7bf9831eb62391b420'
+date: '2020-10-06'
+title: 'misc: xilinx-ai-engine: Fix for-loop control limits'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/200f83ab1eb2c8862ba88d0ddc3d5790ee519474'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

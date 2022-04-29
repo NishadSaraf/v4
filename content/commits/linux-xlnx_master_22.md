@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Handle error interrupts for partitions not yet requested'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/2cfa86501cdde7fd66527873767661078c6e5636'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Add sysfs core device attribute'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/9f4859efbd0d63b10cd5e25fc0d69d6cdc581298'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

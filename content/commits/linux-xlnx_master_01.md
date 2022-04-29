@@ -1,7 +1,7 @@
 ---
-date: '2021-12-14'
-title: 'misc: xilinx-ai-engine: Print tile location only if it is reporting error(s)'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/9fce3c88352d97a6eb48df1ce7293d32583c3352'
+date: '2022-03-17'
+title: 'misc: xilinx-ai-engine: Fix clock frequency to QoS conversion'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/fb61fed4af1144b1ffd1ede1b40c8c2c79144af3'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

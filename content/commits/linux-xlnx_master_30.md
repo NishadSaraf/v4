@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add support to request device management services'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/496029b230015d92dc4b7f24edc80ab40daaa098'
+date: '2020-10-06'
+title: 'misc: xilinx-ai-engine: Handle interrupts in kthreads'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/e2aea790b65951bc8d3651bc50f9e9e1965e0935'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

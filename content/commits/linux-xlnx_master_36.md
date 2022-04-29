@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Create bitmaps to manage level 2 controller'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/b71fe1fd67141e8659baae83e4d62d299afb28a5'
+date: '2020-09-09'
+title: 'dt-bindings: soc: xilinx: ai-engine: Add interrupt and power-domain properties for AIE device'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/9ec26760511f856a716e7691f1ba06ec9bb4739a'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

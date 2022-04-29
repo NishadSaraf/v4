@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Create bitmaps to manage level 2 controller'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/5dccbbbd56ef50c7c2195513f181827c4ada19ee'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Create AI Engine tile devices'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/e63b620577f3ed6d4f28a92a63eadb53a9a94a45'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

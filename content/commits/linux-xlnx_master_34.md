@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Handle error interrupts for partitions not yet requested'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/19e849f5dea39a8cc3d3802d0c011e8fd7f9609e'
+date: '2020-09-09'
+title: 'misc: xilinx-ai-engine: Add support for servicing error interrupts'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/66d44a9416ac3beb30314dbd8829a65775b4266d'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'
