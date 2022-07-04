@@ -1,7 +1,7 @@
 ---
-date: '2021-12-14'
-title: 'misc: xilinx-ai-engine: Print tile location only if it is reporting error(s)'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/9fce3c88352d97a6eb48df1ce7293d32583c3352'
+date: '2022-01-09'
+title: 'misc: xilinx-ai-engine: Add DMA FIFO counter info to Sysfs'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/bcffe9773b49fc82c87a30f9f78921d5b4402c5a'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
 date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Create bitmaps to manage level 2 controller'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/b71fe1fd67141e8659baae83e4d62d299afb28a5'
+title: 'misc: xilinx-ai-engine: Handle interrupts in kthreads'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/a8ed1f036b28d131af5d101eec92cc97f1e8b80c'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

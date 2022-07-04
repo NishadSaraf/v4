@@ -1,7 +1,7 @@
 ---
 date: '2021-04-12'
-title: 'misc: xilinx-ai-engine: Create AI Engine tile devices'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/e63b620577f3ed6d4f28a92a63eadb53a9a94a45'
+title: 'misc: xilinx-ai-engine: Create sysfs device attribute framework'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/12a05be804864f46ccaeccdcf806fe68aa489099'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

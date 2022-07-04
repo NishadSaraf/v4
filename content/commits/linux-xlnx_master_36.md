@@ -1,7 +1,7 @@
 ---
 date: '2020-09-09'
-title: 'dt-bindings: soc: xilinx: ai-engine: Add interrupt and power-domain properties for AIE device'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/9ec26760511f856a716e7691f1ba06ec9bb4739a'
+title: 'misc: xilinx-ai-engine: Add helper functions to service interrupt controllers and event registers'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/5a4285ea662e5e55c31c241234e71c10d63265ec'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

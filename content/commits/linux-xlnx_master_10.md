@@ -1,7 +1,7 @@
 ---
-date: '2021-05-06'
-title: 'misc: xilinx-ai-engine: Clear clock state bitmap while releasing the partition'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/04db053fcf753867c764b3d7a82490e8cb2e3252'
+date: '2021-06-01'
+title: 'misc: xilinx-ai-engine: Fix slab-out-of-bounds in aie_part_sysfs_init'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/1dea93706a73737c864a612f3a44fdc51f5fc502'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

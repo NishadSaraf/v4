@@ -1,7 +1,7 @@
 ---
 date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Handle error interrupts for partitions not yet requested'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/19e849f5dea39a8cc3d3802d0c011e8fd7f9609e'
+title: 'misc: xilinx-ai-engine: Clear broadcast event status'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/0a86c6c06e877d8220a45ee9485d0e53e1fb01c5'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'
