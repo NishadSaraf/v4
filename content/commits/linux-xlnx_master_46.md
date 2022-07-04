@@ -1,7 +1,7 @@
 ---
 date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add support for servicing error interrupts'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/2d749f7e768f77cd6c73dd7bf9831eb62391b420'
+title: 'misc: xilinx-ai-engine: Log error events and classify them into categories'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/fd44602e0ea419181abbc1b1df3d58eacbc54b36'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add APIs for kernel modules to handle error interrupts'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/fd81cebf9b171e6f3d1feac96fab72c043474280'
+date: '2020-10-06'
+title: 'misc: xilinx-ai-engine: Create bitmaps to manage level 2 controller'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/5dccbbbd56ef50c7c2195513f181827c4ada19ee'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

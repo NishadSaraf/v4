@@ -1,7 +1,7 @@
 ---
-date: '2022-01-09'
-title: 'misc: xilinx-ai-engine: Add DMA FIFO counter info to Sysfs'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/bcffe9773b49fc82c87a30f9f78921d5b4402c5a'
+date: '2022-01-19'
+title: 'misc: xilinx-ai-engine: Fix core status masking'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/fc1cbaa7e397d46cada30c3fa05f5881b08fc1ff'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

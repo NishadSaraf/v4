@@ -1,7 +1,7 @@
 ---
-date: '2022-01-19'
-title: 'misc: xilinx-ai-engine: Fix core status masking'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/fc1cbaa7e397d46cada30c3fa05f5881b08fc1ff'
+date: '2022-02-02'
+title: 'misc: xilinx-ai-engine: Add frequency scaling kernel APIs'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/14e3f2052c9cbfba91bef9e09313df06b624fb35'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

@@ -1,7 +1,7 @@
 ---
-date: '2021-06-01'
-title: 'misc: xilinx-ai-engine: Fix slab-out-of-bounds in aie_part_sysfs_init'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/1dea93706a73737c864a612f3a44fdc51f5fc502'
+date: '2021-12-14'
+title: 'misc: xilinx-ai-engine: Print tile location only if it is reporting error(s)'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/9fce3c88352d97a6eb48df1ce7293d32583c3352'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

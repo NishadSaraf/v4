@@ -1,7 +1,7 @@
 ---
-date: '2022-02-02'
-title: 'misc: xilinx-ai-engine: Remove get/set frequency IOCTLs'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/89e3ae9baf717d88a4d21dd0ffda54829b1bde72'
+date: '2022-03-17'
+title: 'misc: xilinx-ai-engine: Query AIE clock by name ID'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/9a3e9d4874230c539d4f87132c4bf12bb8bd8abd'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

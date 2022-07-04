@@ -1,7 +1,7 @@
 ---
 date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Clear broadcast event status'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/0a86c6c06e877d8220a45ee9485d0e53e1fb01c5'
+title: 'misc: xilinx-ai-engine: Fix for-loop control limits'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/200f83ab1eb2c8862ba88d0ddc3d5790ee519474'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'
