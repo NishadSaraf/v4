@@ -1,7 +1,7 @@
 ---
-date: '2021-06-01'
-title: 'misc: xilinx-ai-engine: Fix slab-out-of-bounds in aie_part_sysfs_init'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/1dea93706a73737c864a612f3a44fdc51f5fc502'
+date: '2023-01-17'
+title: 'misc: xilinx-ai-engine: Add sysfs core nodes for AIEML'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/66cbaeb73045dba1f6b7cb0034ed259368190d5b'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

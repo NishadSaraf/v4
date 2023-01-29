@@ -1,7 +1,7 @@
 ---
 date: '2020-09-09'
 title: 'misc: xilinx-ai-engine: Add support to request device management services'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/496029b230015d92dc4b7f24edc80ab40daaa098'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/65caf8ef67faf09418c8b203db2ed146a543c865'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

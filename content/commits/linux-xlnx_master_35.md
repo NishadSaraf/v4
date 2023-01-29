@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add support for servicing error interrupts'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/66d44a9416ac3beb30314dbd8829a65775b4266d'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Create sysfs device attribute framework'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/12a05be804864f46ccaeccdcf806fe68aa489099'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

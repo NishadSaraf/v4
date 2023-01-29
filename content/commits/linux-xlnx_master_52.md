@@ -1,7 +1,7 @@
 ---
 date: '2020-10-06'
 title: 'misc: xilinx-ai-engine: Clear broadcast event status'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/6b002afcb008e7c1ac1c6b4e3f4499d4b9f3144a'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/0a86c6c06e877d8220a45ee9485d0e53e1fb01c5'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'
