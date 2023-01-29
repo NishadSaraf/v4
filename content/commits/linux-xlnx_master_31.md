@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Handle interrupts in kthreads'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/e2aea790b65951bc8d3651bc50f9e9e1965e0935'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Add sysfs error device attribute'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/51dbb54c9dc3157eab94547d00ea0844e8703117'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

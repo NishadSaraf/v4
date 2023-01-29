@@ -1,7 +1,7 @@
 ---
 date: '2021-04-12'
-title: 'Revert "misc: xilinx-ai-engine: fix compilation warning on unbalanced lock/unlock" and "misc: xilinx-ai-engine: add sysfs entry to get partition frequency"'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/f334956bb46a81f8eff43422343a873bcebb118e'
+title: 'misc: xilinx-ai-engine: Add sysfs lock binary attribute'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/63639326bfbdb5c7df25c9052000475dd6ed4ee3'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

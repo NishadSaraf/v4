@@ -1,7 +1,7 @@
 ---
-date: '2020-10-06'
-title: 'misc: xilinx-ai-engine: Clear broadcast event status'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/6b002afcb008e7c1ac1c6b4e3f4499d4b9f3144a'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Create sysfs binary attribute framework'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/6fbb43adab07d4922aa99edf55cc5e8c83596aa3'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

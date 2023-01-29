@@ -1,7 +1,7 @@
 ---
-date: '2022-01-19'
-title: 'misc: xilinx-ai-engine: Fix core status masking'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/fc1cbaa7e397d46cada30c3fa05f5881b08fc1ff'
+date: '2023-01-17'
+title: 'misc: xilinx-ai-engine: Make sysfs lock APIs generation specific'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/c3a89e77429154738203c88cd6babffd77f20620'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

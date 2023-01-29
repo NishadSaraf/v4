@@ -1,7 +1,7 @@
 ---
-date: '2020-09-09'
-title: 'misc: xilinx-ai-engine: Add APIs for kernel modules to handle error interrupts'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/fd81cebf9b171e6f3d1feac96fab72c043474280'
+date: '2021-04-12'
+title: 'misc: xilinx-ai-engine: Add sysfs DMA device attribute'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/1b196f0844c2a14ebc9bc26c89cd9d30b06a783e'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'

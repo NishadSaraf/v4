@@ -1,7 +1,7 @@
 ---
-date: '2022-02-02'
-title: 'misc: xilinx-ai-engine: Add frequency scaling kernel APIs'
-github: 'https://github.com/Xilinx/linux-xlnx/commit/14e3f2052c9cbfba91bef9e09313df06b624fb35'
+date: '2023-01-17'
+title: 'misc: xilinx-ai-engine: Add sysfs lock node for AIEML'
+github: 'https://github.com/Xilinx/linux-xlnx/commit/fe3b45e613e713f8cb65e4292a3fde0e3b6249e2'
 external: ''
 component: 'Linux kernel'
 company: 'Xilinx'
